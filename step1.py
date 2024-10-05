@@ -1,0 +1,1 @@
+words = ["apples", "oranges", "pears"]
